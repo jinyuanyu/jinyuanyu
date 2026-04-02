@@ -1,23 +1,25 @@
 # Hi, I'm YJY
 
-A master's student working on AIGC, depth estimation, 3D avatars, novel view synthesis, and remote sensing reconstruction.
+A master's student whose research interests focus on MultiAgent, AIGC, and Avatar.
 
-我是 `YJY`，目前在深圳，研究方向主要集中在 `AIGC`、`深度估计`、`3D 数字人`、`新视角合成` 和 `遥感影像重建`。
+我是 `YJY`，目前在深圳。研究兴趣主要为 `MultiAgent`、`AIGC`、`Avatar`，研究方向涉及 `新视角生成`、`时序影像重建`、`深度估计`、`超写实数字人` 与 `深度强化学习加速求解`。
 
 ## About Me
 
 - Master's student focused on research-oriented and engineering-oriented AI systems
-- Interested in monocular depth estimation, geometry-aware generation, and video / image reconstruction
+- Interested in MultiAgent systems, AIGC pipelines, avatar-related generation, and geometry-aware learning
 - Building practical pipelines that connect model design, data processing, training, inference, and visualization
 
 ## Research Interests
 
-- Depth Estimation
+- MultiAgent
+- AIGC
+- Avatar
 - Novel View Synthesis
-- 3D Avatar Reconstruction
-- Remote Sensing Image Completion
-- Video Representation Learning
-- AIGC Workflows
+- Temporal Image Reconstruction
+- Depth Estimation
+- Photorealistic Digital Humans
+- Deep Reinforcement Learning Acceleration
 
 ## Featured Projects
 
@@ -36,14 +38,16 @@ A master's student working on AIGC, depth estimation, 3D avatars, novel view syn
 
 ## Keywords
 
-`AIGC` `Depth Estimation` `3D Avatar` `Novel View Synthesis` `Remote Sensing` `Reconstruction` `Video Learning`
+`MultiAgent` `AIGC` `Avatar` `Novel View Synthesis` `Temporal Reconstruction` `Depth Estimation` `Digital Human` `Deep Reinforcement Learning`
 
 ## Current Focus
 
-- Remote sensing image completion under complex missing patterns
-- Monocular depth distillation and geometry-aware supervision
-- 3D head avatar reconstruction with depth regularization
-- Efficient deployment-oriented view synthesis pipelines
+- MultiAgent workflow design and agent collaboration
+- Novel view synthesis and geometry-aware generation
+- Temporal image reconstruction under complex missing patterns
+- Monocular depth estimation and depth distillation
+- Photorealistic digital human and avatar reconstruction
+- Accelerated solving with deep reinforcement learning
 
 ## GitHub
 
