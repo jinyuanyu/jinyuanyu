@@ -12,7 +12,7 @@ Research Assistant in 3D Reconstruction and Neural Rendering at Southern Univers
 
 My research focuses on **3D/4D computer vision and geometry-aware generative modeling**, with particular interests in depth estimation, novel-view synthesis, 3D Gaussian Splatting, human avatars, and evidence-preserving medical visualization.
 
-I work across model design and systems implementation: data preparation, geometry, PyTorch training, evaluation, GPU inference, and interactive visualization. My current goal is to make monocular and sparse-view reconstruction more geometrically reliable under occlusion and limited observations.
+I work across data preparation, geometry, PyTorch training, evaluation, GPU inference, and interactive visualization, with a focus on reliable monocular and sparse-view reconstruction under occlusion and limited observations.
 
 ## Selected Research
 
@@ -38,7 +38,7 @@ I work across model design and systems implementation: data preparation, geometr
 
 **My contribution.** I adapted Video Depth Anything for single-image feature extraction, designed reciprocal-affine calibration, generated Depth Pro pseudo-labels, and trained a lightweight scale head while freezing the backbone.
 
-**Main result.** The current 1,800-frame scene snapshot reports teacher-referenced MSE of **0.1294/0.2248** on two held-out cameras. I explicitly treat this as in-scene calibration, not evidence of cross-scene generalization.
+**Main result.** The current 1,800-frame scene snapshot reports teacher-referenced MSE of **0.1294/0.2248** on two held-out cameras. These values measure in-scene teacher agreement, not cross-scene generalization.
 
 ### [FlashAvatar-DepthFusion](https://github.com/jinyuanyu/FlashAvatar-DepthFusion)
 
@@ -46,7 +46,7 @@ I work across model design and systems implementation: data preparation, geometr
 
 **My contribution.** I extended FlashAvatar with aligned depth loading, scale-invariant Pearson-correlation supervision, conservative face masks, preprocessing validation, and novel-view comparison tools.
 
-**Main result.** The depth-supervision branch runs end to end and has produced qualitative cross-view comparisons on three identities. A controlled quantitative benchmark is the next research milestone.
+**Main result.** The depth-supervision branch runs end to end and has produced qualitative cross-view comparisons on three identities. A controlled quantitative benchmark is not yet available.
 
 ### [Knee MRI 3D Communication](https://github.com/jinyuanyu/knee-mri-3d-communication)
 
