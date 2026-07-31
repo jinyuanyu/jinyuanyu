@@ -1,8 +1,10 @@
 # Jinyuan Yu
 
-Research Assistant in 3D Reconstruction and Neural Rendering at Southern University of Science and Technology (SUSTech).
+Research Assistant in 3D Reconstruction and Neural Rendering at Southern University of Science and Technology (SUSTech) | CEO, 深圳市视元引擎有限公司.
 
-**Seeking research and industry collaborators in 3D vision, neural rendering, computer graphics, and avatar reconstruction. I also run a company and welcome joint research and applied collaboration.**
+**Seeking research and industry collaborators in 3D vision, neural rendering, computer graphics, and avatar reconstruction.**
+
+I lead 深圳市视元引擎有限公司, developing low-cost 2D-to-3D conversion, 3D content generation, and hardware-interoperable glasses-free 3D display systems.
 
 [Email](mailto:522066928@qq.com) | [Public CV](Jinyuan_Yu_CV_Public.pdf) | [GitHub](https://github.com/jinyuanyu)
 
@@ -66,6 +68,7 @@ I work across data preparation, geometry, PyTorch training, evaluation, GPU infe
 
 ## Background
 
+- **CEO**, 深圳市视元引擎有限公司, Present.
 - **Research Assistant**, Department of Electrical and Electronic Engineering, Southern University of Science and Technology, 2025-2026.
 - **M.S. in Computer Technology**, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, 2025.
 - **B.S. in Computer Science and Technology**, Shandong University of Science and Technology, 2019.
