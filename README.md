@@ -2,7 +2,7 @@
 
 Research Assistant in 3D Reconstruction and Neural Rendering at Southern University of Science and Technology (SUSTech).
 
-**Seeking PhD and Research Assistant positions in 3D vision, neural rendering, computer graphics, and avatar reconstruction.**
+**Seeking research and industry collaborators in 3D vision, neural rendering, computer graphics, and avatar reconstruction. I also run a company and welcome joint research and applied collaboration.**
 
 [Email](mailto:522066928@qq.com) | [Public CV](Jinyuan_Yu_CV_Public.pdf) | [GitHub](https://github.com/jinyuanyu)
 
@@ -74,4 +74,4 @@ I work across data preparation, geometry, PyTorch training, evaluation, GPU infe
 
 `3D Gaussian Splatting` `Neural Rendering` `Novel-View Synthesis` `Monocular Depth` `PyTorch` `CUDA/GPU Systems` `Temporal Modeling` `Optimization`
 
-For research collaboration or position inquiries, contact [522066928@qq.com](mailto:522066928@qq.com).
+For research or industry collaboration inquiries, contact [522066928@qq.com](mailto:522066928@qq.com).
